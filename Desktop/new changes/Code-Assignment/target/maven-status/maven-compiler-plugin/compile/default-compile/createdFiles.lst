@@ -1,0 +1,10 @@
+com\codeassi\model\MovieDetails$1.class
+com\codeassi\datainterface\IMovieDetailData.class
+com\codeassi\ErrorController.class
+com\codeassi\model\MovieDetails$2.class
+com\codeassi\serviceinterface\IMovieDetailService.class
+com\codeassi\MovieDetailController.class
+com\codeassi\model\MovieDetails.class
+com\codeassi\dataimp\MovieDetailDataImp.class
+com\codeassi\CodeAssignmentApplication.class
+com\codeassi\serviceimp\MovieDetailServiceImp.class
